@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution on frontend mentor](https://www.frontendmentor.io/solutions/faq-accordion-solution-with-flexbox-and-grid-CBIRVfW1DE)
 - Live Site URL: [FAQ Accordion](https://qs3h.github.io/FAQ-Accordion-Solution-Frontend-Mentor-/)
 
 ### Built with
